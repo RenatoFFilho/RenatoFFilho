@@ -1,16 +1,19 @@
-### Hi there 👋
+# Renato Faraco 🚀
 
-<!--
-**RenatoFFilho/RenatoFFilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim 🎓
+- Mestrando em Engenharia Elétrica pela Universidade Federal de Juiz de Fora (2022) 🎓
+- Experiência na área de Engenharia Elétrica, com ênfase em Instrumentação ⚡
+- Apaixonado por otimização e algoritmos de busca 🔍
 
-Here are some ideas to get you started:
+## Projetos Destacados 🚀
+- [Grey Wolf Optimizer](https://github.com/RenatoFFilho/Grey_Wolf_Optimizer): Implementação em Python do Algoritmo de Otimização do Lobo Cinzento (GWO)
+- [Objective Functions](https://github.com/RenatoFFilho/Objective_Functions): Uma coleção de funções objetivo para testes de otimização
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades 🛠️
+- Programação: Python, MATLAB 🐍
+- Otimização e Algoritmos de Busca 🔄
+- Instrumentação Eletrônica 🌟
+
+## Contato 📬
+- Email: renato.luiz@engenharia.ufjf.br 📧
+- LinkedIn: [Renato Fernandes Filho](https://www.linkedin.com/in/renato-faraco/) 💼
