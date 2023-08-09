@@ -16,4 +16,4 @@
 
 ## Contato 📬
 - Email: renato.luiz@engenharia.ufjf.br 📧
-- LinkedIn: [Renato Fernandes Filho](https://www.linkedin.com/in/renato-faraco/) 💼
+- LinkedIn: [Renato Faraco](https://www.linkedin.com/in/renato-faraco/) 💼
